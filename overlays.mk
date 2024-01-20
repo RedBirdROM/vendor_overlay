@@ -55,6 +55,7 @@ PRODUCT_PACKAGES += \
     FontHarmonySansOverlay \
     FontTinkerbellOverlay \
     FontStoropiaSourceOverlay \
+    FontRalewayOverlay \
 
 # Icon shapes
 PRODUCT_PACKAGES += \
